@@ -4,7 +4,7 @@
 主要分为以下几个部分：</br>
 第一部分：Objective-C学习
 ==
-* [Foundation框架学习之--NSDictionary详细使用](http://www.baidu.com/)
+* [Foundation框架学习之--NSDictionary详细使用](https://github.com/BreakMind/IOS/tree/master/Objective-C_Samples/NSDictionarySamples)
 * Category
 * KVC与KVO
 * Protocol
