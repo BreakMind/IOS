@@ -6,7 +6,7 @@
 ==
 * [Foundation框架学习之--NSDictionary详细使用](https://github.com/BreakMind/IOS/tree/master/Objective-C_Samples/NSDictionarySamples)
 * Category
-* KVC与KVO
+* [KVC与KVO](https://github.com/BreakMind/IOS/tree/master/Objective-C_Samples/NSKVC_AND_KVO)
 * Protocol
 * Block
 * 引用计数
